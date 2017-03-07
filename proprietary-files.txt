@@ -155,3 +155,6 @@ lib/hw/fingerprint.fpc.so
 # IRDA
 lib64/hw/consumerir.msm8996.so
 lib/hw/consumerir.msm8996.so
+
+# NFC firmware
+vendor/firmware/libpn548ad_fw.so
