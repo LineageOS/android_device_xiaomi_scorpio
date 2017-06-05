@@ -148,9 +148,6 @@ vendor/lib/libmmcamera_imx318.so|191841205b7ef15c7e1db81ced02fb4adcce5279
 vendor/lib/libmmcamera_imx318_primax.so|f91a8b5516a87fe90a510b555d7a5295762c56fd
 vendor/lib/libmmcamera_imx318_semco.so|ed53219cca1a2be796118b205345948dfc3884cb
 
-# Charger
-bin/hvdcp_opti
-
 # Display calibration data
 -etc/qdcm_calib_data_lgd_sw43101_p2_video_fhd_oled_panel.xml
 -etc/qdcm_calib_data_lgd_sw43101_video_fhd_oled_panel.xml
