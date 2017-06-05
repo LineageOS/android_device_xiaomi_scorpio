@@ -136,17 +136,18 @@ etc/camera/imx318_semco_chromatix.xml
 etc/camera/msm8996_camera.xml|ba45b4ba114d1b9c4de000f1015b53e9a34ea9f8
 
 # Camera eeproms
-vendor/lib/libmmcamera_imx268_primax_eeprom.so|564ebc7ca6f0a6593762b58a6fae5df499fd4ddd
+vendor/lib/libmmcamera_imx268_primax_eeprom.so
 vendor/lib/libmmcamera_imx268_sunny_eeprom.so
-vendor/lib/libmmcamera_imx318_primax_eeprom.so|b18917f61253d9b29281d0ea69b76883f1e175a5
-vendor/lib/libmmcamera_imx318_semco_eeprom.so|6dc1fde5515c51d5881066e06d73729358a630aa
+vendor/lib/libmmcamera_imx318_primax_eeprom.so
+vendor/lib/libmmcamera_imx318_semco_eeprom.so
 
 # Camera sensors
-vendor/lib/libmmcamera_imx268.so|8a93e5e51a81f23479230ab5caf9ff7783b70469
+vendor/lib/libmmcamera_imx268.so
 vendor/lib/libmmcamera_imx268_sunny.so
-vendor/lib/libmmcamera_imx318.so|191841205b7ef15c7e1db81ced02fb4adcce5279
-vendor/lib/libmmcamera_imx318_primax.so|f91a8b5516a87fe90a510b555d7a5295762c56fd
-vendor/lib/libmmcamera_imx318_semco.so|ed53219cca1a2be796118b205345948dfc3884cb
+vendor/lib/libmmcamera_imx318.so
+vendor/lib/libmmcamera_imx318_primax.so
+vendor/lib/libmmcamera_imx318_semco.so
+vendor/lib/libSonyIMX318PdafLibrary.so
 
 # Display calibration data
 -etc/qdcm_calib_data_lgd_sw43101_p2_video_fhd_oled_panel.xml
