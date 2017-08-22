@@ -24,6 +24,9 @@ TARGET_OTA_ASSERT_DEVICE := scorpio
 # Board
 TARGET_BOARD_INFO_FILE := $(DEVICE_PATH)/board-info.txt
 
+# HIDL
+DEVICE_MANIFEST_FILE := $(DEVICE_PATH)/manifest.xml
+
 # Kernel
 TARGET_KERNEL_CONFIG := scorpio_defconfig
 
