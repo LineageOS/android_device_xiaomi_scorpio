@@ -1,0 +1,27 @@
+{
+  "comments": [
+    {
+      "key": {
+        "uuid": "06d66e99_6cd38c57",
+        "filename": "proprietary-files.txt",
+        "patchSetId": 1
+      },
+      "lineNbr": 12,
+      "author": {
+        "id": 13648
+      },
+      "writtenOn": "2018-01-15T20:35:58Z",
+      "side": 1,
+      "message": "Is it really used? Doesn\u0027t seem so. Only the a4_primax: https://github.com/TheMuppets/proprietary_vendor_xiaomi/blob/cm-14.1/scorpio/proprietary/etc/camera/msm8996_camera.xml#L115",
+      "range": {
+        "startLine": 12,
+        "startChar": 0,
+        "endLine": 12,
+        "endChar": 32
+      },
+      "revId": "05f7e64c8fdaab51a3a67b77bd900c8bfc1d9561",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71",
+      "unresolved": false
+    }
+  ]
+}
