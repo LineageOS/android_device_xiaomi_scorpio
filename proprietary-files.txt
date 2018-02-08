@@ -145,7 +145,7 @@ etc/camera/imx268_sunny_chromatix.xml
 etc/camera/imx318_chromatix.xml
 etc/camera/imx318_primax_chromatix.xml
 etc/camera/imx318_semco_chromatix.xml
-etc/camera/msm8996_camera.xml|ba45b4ba114d1b9c4de000f1015b53e9a34ea9f8
+etc/camera/msm8996_camera.xml
 
 # Camera eeproms
 vendor/lib/libmmcamera_imx268_primax_eeprom.so
