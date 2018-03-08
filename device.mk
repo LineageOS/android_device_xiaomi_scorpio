@@ -39,10 +39,6 @@ PRODUCT_PACKAGES += \
 PRODUCT_PACKAGES += \
     ConfigPanel
 
-# Device init scripts
-PRODUCT_PACKAGES += \
-    init.target.rc
-
 # Fingerprint
 PRODUCT_PACKAGES += \
     android.hardware.biometrics.fingerprint@2.1-service
