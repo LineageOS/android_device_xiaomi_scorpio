@@ -1,0 +1,73 @@
+{
+  "comments": [
+    {
+      "key": {
+        "uuid": "a403aac6_45bdba81",
+        "filename": "proprietary-files.txt",
+        "patchSetId": 1
+      },
+      "lineNbr": 9,
+      "author": {
+        "id": 13648
+      },
+      "writtenOn": "2018-03-14T13:45:17Z",
+      "side": 1,
+      "message": "It\u0027s now in vendor/etc",
+      "range": {
+        "startLine": 2,
+        "startChar": 0,
+        "endLine": 9,
+        "endChar": 74
+      },
+      "revId": "20eab350ad21c4aec8a34b9a2c3d761f43044677",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71",
+      "unresolved": false
+    },
+    {
+      "key": {
+        "uuid": "6fe40d9d_2e62ad24",
+        "filename": "proprietary-files.txt",
+        "patchSetId": 1
+      },
+      "lineNbr": 169,
+      "author": {
+        "id": 13648
+      },
+      "writtenOn": "2018-03-14T13:45:17Z",
+      "side": 1,
+      "message": "You gotta pin this to the N version.",
+      "range": {
+        "startLine": 169,
+        "startChar": 0,
+        "endLine": 169,
+        "endChar": 27
+      },
+      "revId": "20eab350ad21c4aec8a34b9a2c3d761f43044677",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71",
+      "unresolved": false
+    },
+    {
+      "key": {
+        "uuid": "3ce8ec7f_79ea919c",
+        "filename": "proprietary-files.txt",
+        "patchSetId": 1
+      },
+      "lineNbr": 176,
+      "author": {
+        "id": 13648
+      },
+      "writtenOn": "2018-03-14T13:45:17Z",
+      "side": 1,
+      "message": "It\u0027s now in vendor/etc",
+      "range": {
+        "startLine": 172,
+        "startChar": 0,
+        "endLine": 176,
+        "endChar": 54
+      },
+      "revId": "20eab350ad21c4aec8a34b9a2c3d761f43044677",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71",
+      "unresolved": false
+    }
+  ]
+}
