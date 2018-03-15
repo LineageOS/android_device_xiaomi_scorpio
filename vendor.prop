@@ -2,3 +2,6 @@
 persist.qfp=false
 ro.hardware.fingerprint=fpc
 sys.fpc.tu.disabled=0
+
+# Sensors
+ro.qti.sensors.touch_taptap=true
