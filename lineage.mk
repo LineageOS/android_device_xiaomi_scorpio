@@ -14,7 +14,7 @@ PRODUCT_GMS_CLIENTID_BASE := android-xiaomi
 PRODUCT_BUILD_PROP_OVERRIDES += \
     TARGET_DEVICE="scorpio" \
     PRODUCT_NAME="scorpio" \
-    PRIVATE_BUILD_DESC="scorpio-user 6.0.1 MXB48T V8.2.6.0.MADCNDL release-keys"
+    PRIVATE_BUILD_DESC="scorpio-user 8.0.0 OPR1.170623.032 8.3.1 release-keys"
 
 # Set BUILD_FINGERPRINT variable to be picked up by both system and vendor build.prop
-BUILD_FINGERPRINT := "Xiaomi/scorpio/scorpio:6.0.1/MXB48T/V8.2.6.0.MADCNDL:user/release-keys"
+BUILD_FINGERPRINT := "Xiaomi/scorpio/scorpio:8.0.0/OPR1.170623.032/8.3.1:user/release-keys"
