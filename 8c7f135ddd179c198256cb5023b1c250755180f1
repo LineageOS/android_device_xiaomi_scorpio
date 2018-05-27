@@ -1,0 +1,27 @@
+{
+  "comments": [
+    {
+      "key": {
+        "uuid": "bd1a252e_75c0077d",
+        "filename": "audiocombiner/Android.mk",
+        "patchSetId": 2
+      },
+      "lineNbr": 12,
+      "author": {
+        "id": 11883
+      },
+      "writtenOn": "2018-05-27T18:58:43Z",
+      "side": 1,
+      "message": "not used",
+      "range": {
+        "startLine": 10,
+        "startChar": 0,
+        "endLine": 12,
+        "endChar": 35
+      },
+      "revId": "8c7f135ddd179c198256cb5023b1c250755180f1",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71",
+      "unresolved": true
+    }
+  ]
+}
