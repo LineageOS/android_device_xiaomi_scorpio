@@ -1,0 +1,27 @@
+{
+  "comments": [
+    {
+      "key": {
+        "uuid": "1f2baf3f_fc914237",
+        "filename": "audiocombiner/src/org/lineageos/settings/audiocombiner/Startup.java",
+        "patchSetId": 3
+      },
+      "lineNbr": 41,
+      "author": {
+        "id": 11883
+      },
+      "writtenOn": "2018-05-27T19:19:08Z",
+      "side": 1,
+      "message": "IntentFilter audioFilter \u003d new IntentFilter();\n        audioFilter.addAction(AudioManager.ACTION_HEADSET_PLUG);\n        audioFilter.addAction(BluetoothA2dp.ACTION_CONNECTION_STATE_CHANGED);\n        audioFilter.addAction(BluetoothAdapter.ACTION_STATE_CHANGED);\n        context.getApplicationContext().registerReceiver(mAudioCombiner, audioFilter);",
+      "range": {
+        "startLine": 36,
+        "startChar": 0,
+        "endLine": 41,
+        "endChar": 93
+      },
+      "revId": "97369deddade8580e12c3a65bde291fa85191e6d",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71",
+      "unresolved": true
+    }
+  ]
+}
