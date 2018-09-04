@@ -30,8 +30,5 @@ DEVICE_MANIFEST_FILE += $(DEVICE_PATH)/manifest.xml
 # Kernel
 TARGET_KERNEL_CONFIG := scorpio_defconfig
 
-# NFC
-NXP_CHIP_TYPE := 2
-
 # inherit from the proprietary version
 -include vendor/xiaomi/scorpio/BoardConfigVendor.mk
