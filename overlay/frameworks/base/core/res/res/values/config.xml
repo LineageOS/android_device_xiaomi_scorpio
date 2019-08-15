@@ -33,6 +33,7 @@
          Must be overridden in platform specific overlays -->
     <integer-array name="config_autoBrightnessLevels">
         <item>1</item>
+        <item>5</item>
         <item>8</item>
         <item>13</item>
         <item>17</item>
@@ -41,6 +42,7 @@
         <item>30</item>
         <item>34</item>
         <item>39</item>
+        <item>50</item>
         <item>60</item>
         <item>140</item>
         <item>310</item>
@@ -60,14 +62,16 @@
          than the size of the config_autoBrightnessLevels array.
          This must be overridden in platform specific overlays -->
     <integer-array name="config_autoBrightnessLcdBacklightValues">
+        <item>10</item>
         <item>15</item>
+        <item>20</item>
+        <item>25</item>
         <item>30</item>
-        <item>30</item>
-        <item>30</item>
-        <item>30</item>
-        <item>30</item>
-        <item>51</item>
-        <item>56</item>
+        <item>35</item>
+        <item>40</item>
+        <item>45</item>
+        <item>50</item>
+        <item>55</item>
         <item>56</item>
         <item>57</item>
         <item>59</item>
@@ -103,7 +107,7 @@
 
     <!-- Minimum screen brightness setting allowed by the power manager.
          The user is forbidden from setting the brightness below this level. -->
-    <integer name="config_screenBrightnessSettingMinimum">15</integer>
+    <integer name="config_screenBrightnessSettingMinimum">10</integer>
 
     <!-- Stability requirements in milliseconds for accepting a new brightness level.  This is used
          for debouncing the light sensor.  Different constants are used to debounce the light sensor
