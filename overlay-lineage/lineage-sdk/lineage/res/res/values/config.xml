@@ -74,8 +74,12 @@
     <!-- BurnIn protection. This should be enabled on devices that have OLED displays -->
     <bool name="config_enableBurnInProtection">true</bool>
 
-    <!-- Button backlight -->
-    <bool name="config_deviceHasVariableButtonBrightness">true</bool>
+    <!-- Button backlight control. Possible values are:
+            0 - Not supported
+            1 - Supported, but only on/off mode
+            2 - Supported with variable brightness control
+    -->
+    <integer name="config_deviceSupportsButtonBrightnessControl">2</integer>
 
     <!-- Whether to cleanup fingerprints upon connection to the daemon and when
          user switches -->
