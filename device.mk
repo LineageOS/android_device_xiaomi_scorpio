@@ -1,5 +1,5 @@
 #
-# Copyright (C) 2017-2020 The LineageOS Project
+# Copyright (C) 2017-2021 The LineageOS Project
 #
 # Licensed under the Apache License, Version 2.0 (the "License");
 # you may not use this file except in compliance with the License.
@@ -37,10 +37,6 @@ PRODUCT_COPY_FILES += \
 # Consumer IR
 PRODUCT_PACKAGES += \
     android.hardware.ir@1.0-service.xiaomi
-
-# ConfigPanel
-PRODUCT_PACKAGES += \
-    ConfigPanel
 
 # Fingerprint
 PRODUCT_PACKAGES += \
