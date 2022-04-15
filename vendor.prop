@@ -1,2 +1,5 @@
+# Bluetooth
+bluetooth.device.default_name=Xiaomi MI Note 2
+
 # USB
 vendor.usb.product_string=Xiaomi MI Note 2
