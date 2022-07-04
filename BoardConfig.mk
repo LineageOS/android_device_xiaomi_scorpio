@@ -1,5 +1,6 @@
 #
-# Copyright (C) 2017-2018,2020-2021 The LineageOS Project
+# Copyright (C) 2016 The CyanogenMod Project
+# Copyright (C) 2017-2018,2020-2022 The LineageOS Project
 #
 # Licensed under the Apache License, Version 2.0 (the "License");
 # you may not use this file except in compliance with the License.
@@ -28,7 +29,7 @@ TARGET_BOARD_INFO_FILE := $(DEVICE_PATH)/board-info.txt
 DEVICE_MANIFEST_FILE += $(DEVICE_PATH)/manifest.xml
 
 # Kernel
-TARGET_KERNEL_CONFIG := scorpio_defconfig
+TARGET_KERNEL_CONFIG += vendor/xiaomi/scorpio.config
 
 # Properties
 TARGET_VENDOR_PROP += $(DEVICE_PATH)/vendor.prop
