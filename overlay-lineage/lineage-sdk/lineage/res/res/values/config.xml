@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="utf-8"?>
 <!--
-     Copyright (C) 2016 The CyanogenMod Project
-                   2017-2020 The LineageOS Project
+     Copyright (C) 2015-2016 The CyanogenMod Project
+                   2017-2024 The LineageOS Project
 
      Licensed under the Apache License, Version 2.0 (the "License");
      you may not use this file except in compliance with the License.
@@ -29,13 +29,13 @@
         <item>sRGB:srgb</item>
         <item>sRGB_M5_3:srgb</item>
     </string-array>
-
+    
     <!-- Should we filter any display modes which are unampped? -->
     <bool name="config_filterDisplayModes">true</bool>
 
     <!-- Paths to the libraries that contain device specific key handlers -->
     <string-array name="config_deviceKeyHandlerLibs" translatable="false">
-        <item>/system_ext/priv-app/ConfigPanel/ConfigPanel.apk</item>
+        <item>/system_ext/priv-app/XiaomiParts/XiaomiParts.apk</item>
     </string-array>
 
     <!-- Names of the key handler classes -->
