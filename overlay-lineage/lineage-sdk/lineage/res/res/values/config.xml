@@ -1,6 +1,5 @@
 <?xml version="1.0" encoding="utf-8"?>
-<!--
-     Copyright (C) 2016 The CyanogenMod Project
+<!-- Copyright (C) 2016 The CyanogenMod Project
                    2017-2020 The LineageOS Project
 
      Licensed under the Apache License, Version 2.0 (the "License");
@@ -35,7 +34,7 @@
 
     <!-- Paths to the libraries that contain device specific key handlers -->
     <string-array name="config_deviceKeyHandlerLibs" translatable="false">
-        <item>/system_ext/priv-app/ConfigPanel/ConfigPanel.apk</item>
+        <item>/system_ext/priv-app/XiaomiParts/XiaomiParts.apk</item>
     </string-array>
 
     <!-- Names of the key handler classes -->
