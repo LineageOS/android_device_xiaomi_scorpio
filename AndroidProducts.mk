@@ -15,8 +15,3 @@
 
 PRODUCT_MAKEFILES := \
     $(LOCAL_DIR)/lineage_scorpio.mk
-
-COMMON_LUNCH_CHOICES := \
-    lineage_scorpio-user \
-    lineage_scorpio-userdebug \
-    lineage_scorpio-eng
