@@ -19,4 +19,7 @@
 <resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
     <!-- Whether device supports lift to wake -->
     <bool name="config_supportsLiftToWake">false</bool>
+
+    <!-- Indicates whether device has a front facing fingerprint sensor (not udfps). -->
+    <bool name="config_is_front_facing_fps" translatable="false">true</bool>
 </resources>
