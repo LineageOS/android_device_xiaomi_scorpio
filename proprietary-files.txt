@@ -143,12 +143,12 @@ vendor/lib/libchromatix_imx318_snapshot.so
 vendor/lib/libchromatix_imx318_video_4k.so
 
 # Camera configs
-etc/camera/imx268_chromatix.xml
-etc/camera/imx268_sunny_chromatix.xml
-etc/camera/imx318_chromatix.xml
-etc/camera/imx318_primax_chromatix.xml
-etc/camera/imx318_semco_chromatix.xml
-etc/camera/msm8996_camera.xml
+system/etc/camera/imx268_chromatix.xml:vendor/etc/camera/imx268_chromatix.xml
+system/etc/camera/imx268_sunny_chromatix.xml:vendor/etc/camera/imx268_sunny_chromatix.xml
+system/etc/camera/imx318_chromatix.xml:vendor/etc/camera/imx318_chromatix.xml
+system/etc/camera/imx318_primax_chromatix.xml:vendor/etc/camera/imx318_primax_chromatix.xml
+system/etc/camera/imx318_semco_chromatix.xml:vendor/etc/camera/imx318_semco_chromatix.xml
+system/etc/camera/msm8996_camera.xml:vendor/etc/camera/msm8996_camera.xml
 
 # Camera eeproms
 vendor/lib/libmmcamera_imx268_primax_eeprom.so
