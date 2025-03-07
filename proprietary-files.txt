@@ -157,12 +157,12 @@ vendor/lib/libmmcamera_imx318_primax_eeprom.so
 vendor/lib/libmmcamera_imx318_semco_eeprom.so
 
 # Camera sensors
+vendor/lib/libSonyIMX318PdafLibrary.so
 vendor/lib/libmmcamera_imx268.so
 vendor/lib/libmmcamera_imx268_sunny.so
 vendor/lib/libmmcamera_imx318.so
 vendor/lib/libmmcamera_imx318_primax.so
 vendor/lib/libmmcamera_imx318_semco.so
-vendor/lib/libSonyIMX318PdafLibrary.so
 
 # Display calibration data
 etc/qdcm_calib_data_lgd_sw43101_p2_video_fhd_oled_panel.xml:vendor/etc/qdcm_calib_data_lgd_sw43101_p2_video_fhd_oled_panel.xml
@@ -182,5 +182,5 @@ vendor/firmware/a530_zap.mdt
 vendor/firmware/libpn548ad_fw.so:vendor/lib/libpn548ad_fw.so
 
 # Sensors
-vendor/etc/sensors/hals.conf|bf3677cbfa5ce5735662e8c259cb027969f65c87
 etc/sensors/sensor_def_qcomdev.conf
+vendor/etc/sensors/hals.conf|bf3677cbfa5ce5735662e8c259cb027969f65c87
