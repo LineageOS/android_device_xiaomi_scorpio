@@ -18,5 +18,5 @@
 -->
 <resources>
     <!-- Default for Settings.Global.DEVICE_NAME $1=MODEL-->
-    <string name="def_device_name_simple">Xiaomi MI Note 2</string>
+    <string name="def_device_name_simple">Xiaomi Mi Note 2</string>
 </resources>
