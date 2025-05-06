@@ -34,7 +34,7 @@ PRODUCT_COPY_FILES += \
 
 # Consumer IR
 PRODUCT_PACKAGES += \
-    android.hardware.ir-service.xiaomi
+    android.hardware.ir-service.lineage
 
 # Fingerprint
 PRODUCT_PACKAGES += \
