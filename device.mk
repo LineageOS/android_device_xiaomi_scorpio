@@ -1,5 +1,5 @@
 #
-# Copyright (C) 2017-2020,2022,2024 The LineageOS Project
+# Copyright (C) 2017-2020,2022,2024-2025 The LineageOS Project
 #
 # Licensed under the Apache License, Version 2.0 (the "License");
 # you may not use this file except in compliance with the License.
@@ -59,7 +59,10 @@ PRODUCT_SOONG_NAMESPACES += \
 
 # Touch HAL
 PRODUCT_PACKAGES += \
-    vendor.lineage.touch@1.0-service.xiaomi_8996
+    vendor.lineage.touch-service.xiaomi
+
+$(call soong_config_set,XIAOMI_TOUCH,KEY_DISABLER_CONTROL_PATH,/proc/touchpanel/capacitive_keys_enable)
+$(call soong_config_set,XIAOMI_TOUCH,KEY_SWAPPER_CONTROL_PATH,/proc/touchpanel/reversed_keys_enable)
 
 # Thermal
 PRODUCT_COPY_FILES += \
