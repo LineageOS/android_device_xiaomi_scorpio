@@ -1,0 +1,21 @@
+{
+  "comments": [
+    {
+      "unresolved": false,
+      "key": {
+        "uuid": "d3597844_23ba4edb",
+        "filename": "/PATCHSET_LEVEL",
+        "patchSetId": 2
+      },
+      "lineNbr": 0,
+      "author": {
+        "id": 13648
+      },
+      "writtenOn": "2025-12-11T21:57:24Z",
+      "side": 1,
+      "message": "Abandon. You should pick the proper change and place it before https://review.lineageos.org/c/LineageOS/android_device_xiaomi_scorpio/+/464754/.",
+      "revId": "7cae8369af4093780ea54327889e259702e7a09e",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71"
+    }
+  ]
+}
