@@ -1,0 +1,27 @@
+{
+  "comments": [
+    {
+      "unresolved": true,
+      "key": {
+        "uuid": "6322208f_dd29380c",
+        "filename": "BoardConfig.mk",
+        "patchSetId": 1
+      },
+      "lineNbr": 2,
+      "author": {
+        "id": 13648
+      },
+      "writtenOn": "2025-12-11T21:43:01Z",
+      "side": 1,
+      "message": "This came from gemini, remove it please.",
+      "range": {
+        "startLine": 2,
+        "startChar": 0,
+        "endLine": 2,
+        "endChar": 44
+      },
+      "revId": "10ceb1d6af0b562350e47f12620d1761f4935e1d",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71"
+    }
+  ]
+}
