@@ -1,0 +1,27 @@
+{
+  "comments": [
+    {
+      "unresolved": true,
+      "key": {
+        "uuid": "f9aea163_8ea406de",
+        "filename": "board-info.txt",
+        "patchSetId": 1
+      },
+      "lineNbr": 1,
+      "author": {
+        "id": 13648
+      },
+      "writtenOn": "2025-12-11T21:44:26Z",
+      "side": 1,
+      "message": "This comes from https://review.lineageos.org/c/LineageOS/android_device_xiaomi_gemini/+/374114/. Pick that change before.",
+      "range": {
+        "startLine": 1,
+        "startChar": 0,
+        "endLine": 1,
+        "endChar": 29
+      },
+      "revId": "63120c8296d9a8e5096e88860eb2995b86f8b196",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71"
+    }
+  ]
+}
