@@ -1,0 +1,21 @@
+{
+  "comments": [
+    {
+      "unresolved": false,
+      "key": {
+        "uuid": "d3981223_709c6309",
+        "filename": "/PATCHSET_LEVEL",
+        "patchSetId": 2
+      },
+      "lineNbr": 0,
+      "author": {
+        "id": 13648
+      },
+      "writtenOn": "2025-12-11T21:55:22Z",
+      "side": 1,
+      "message": "Bad commit metadata and wrong change-Id.\n\nhttps://review.lineageos.org/q/Iad50e6cb63368e2d71e6fa1dbb6997c0f95d321e",
+      "revId": "23ad0c448c488d8896d926941316423114593af5",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71"
+    }
+  ]
+}
