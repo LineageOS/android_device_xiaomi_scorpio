@@ -1,0 +1,21 @@
+{
+  "comments": [
+    {
+      "unresolved": false,
+      "key": {
+        "uuid": "83ee89c8_f4d9e8ad",
+        "filename": "/PATCHSET_LEVEL",
+        "patchSetId": 2
+      },
+      "lineNbr": 0,
+      "author": {
+        "id": 13648
+      },
+      "writtenOn": "2025-12-11T22:02:19Z",
+      "side": 1,
+      "message": "Wrong chang-Id.\n\nhttps://review.lineageos.org/q/If4c93792bf27eaf2f787ea1a288ac8e25be56855",
+      "revId": "cf2bff541d224d2f3c04312aee6216fdefd4c3d0",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71"
+    }
+  ]
+}
