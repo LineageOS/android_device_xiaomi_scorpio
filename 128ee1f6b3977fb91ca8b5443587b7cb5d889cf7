@@ -24,6 +24,30 @@
       "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71"
     },
     {
+      "unresolved": false,
+      "key": {
+        "uuid": "c90ac416_e0875de9",
+        "filename": "device.mk",
+        "patchSetId": 1
+      },
+      "lineNbr": 2,
+      "author": {
+        "id": 35591
+      },
+      "writtenOn": "2025-12-13T23:23:14Z",
+      "side": 1,
+      "message": "Done",
+      "parentUuid": "e76d0a05_728a056b",
+      "range": {
+        "startLine": 2,
+        "startChar": 0,
+        "endLine": 2,
+        "endChar": 44
+      },
+      "revId": "128ee1f6b3977fb91ca8b5443587b7cb5d889cf7",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71"
+    },
+    {
       "unresolved": true,
       "key": {
         "uuid": "3e8bdf0f_659f8420",
@@ -47,6 +71,30 @@
       "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71"
     },
     {
+      "unresolved": false,
+      "key": {
+        "uuid": "68e8ccd4_6969c20d",
+        "filename": "overlay-lineage/lineage-sdk/lineage/res/res/values/config.xml",
+        "patchSetId": 1
+      },
+      "lineNbr": 3,
+      "author": {
+        "id": 35591
+      },
+      "writtenOn": "2025-12-13T23:23:14Z",
+      "side": 1,
+      "message": "Done",
+      "parentUuid": "3e8bdf0f_659f8420",
+      "range": {
+        "startLine": 3,
+        "startChar": 19,
+        "endLine": 3,
+        "endChar": 28
+      },
+      "revId": "128ee1f6b3977fb91ca8b5443587b7cb5d889cf7",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71"
+    },
+    {
       "unresolved": true,
       "key": {
         "uuid": "3287297d_1362a426",
@@ -60,6 +108,30 @@
       "writtenOn": "2025-12-11T21:46:05Z",
       "side": 1,
       "message": "Stray spaces, remove.",
+      "range": {
+        "startLine": 32,
+        "startChar": 0,
+        "endLine": 32,
+        "endChar": 4
+      },
+      "revId": "128ee1f6b3977fb91ca8b5443587b7cb5d889cf7",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71"
+    },
+    {
+      "unresolved": false,
+      "key": {
+        "uuid": "98b5e668_dbaf11a0",
+        "filename": "overlay-lineage/lineage-sdk/lineage/res/res/values/config.xml",
+        "patchSetId": 1
+      },
+      "lineNbr": 32,
+      "author": {
+        "id": 35591
+      },
+      "writtenOn": "2025-12-13T23:23:14Z",
+      "side": 1,
+      "message": "Done",
+      "parentUuid": "3287297d_1362a426",
       "range": {
         "startLine": 32,
         "startChar": 0,
